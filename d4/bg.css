@@ -1,0 +1,17 @@
+html{
+    margin: 0px;
+    background-image: url(https://cdn.wallpapersafari.com/95/4/na3Y8x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg{
+    width: 80px;
+    padding: 20% 50% 20% 45% ;
+    color: aqua;
+}
+button{
+    width: 80px;
+    background-color: rgb(184, 156, 210);
+    color: greenyellow;
+    
+}
